@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hemant Dewangan.
 - 👀 I’m interested in Web development.
-- 🌱 I’ve working knowledge of Asp.net C#, React js and Node js.
+- 🌱 I’ve working knowledge of React js, Javascript, HTML, CSS, Material UI, MongoDB and Node js.
 - 💞️ I’m looking to collaborate on Full Stack Web Development.
 - 📫 You can email me hemantdewangan1101@gmail.com
 
